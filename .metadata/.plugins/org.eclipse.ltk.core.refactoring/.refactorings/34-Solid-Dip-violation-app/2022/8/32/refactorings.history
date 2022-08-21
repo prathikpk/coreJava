@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Manager.java&apos; to &apos;35-Solid-Dip-solution-app&apos;&#x0D;&#x0A;- Original project: &apos;34-Solid-Dip-violation-app&apos;&#x0D;&#x0A;- Destination element: &apos;35-Solid-Dip-solution-app&apos;&#x0D;&#x0A;- Original element: &apos;com.Aurionpro.model.Manager.java&apos;" description="Copy compilation unit" destination="=35-Solid-Dip-solution-app" element1="/src&lt;com.Aurionpro.model{Manager.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1659520217438" units="1" version="1.0"/>
+</session>
